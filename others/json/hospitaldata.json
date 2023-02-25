@@ -23,8 +23,8 @@
 			"queue_info": {
 				"active_queue": 249,
 				"current_queue": 191,
-				"wating_time": "34min",
-				"avarage_queue_time": "2 mins",
+				"wating_time": "1hr 3min",
+				"avarage_queue_time": "6 mins",
 				"canceled_queue": 7
 			}
 		},
@@ -50,8 +50,8 @@
 			"queue_info": {
 				"active_queue": 139,
 				"current_queue": 40,
-				"wating_time": "34min",
-				"avarage_queue_time": "2 mins",
+				"wating_time": "1hr 34min",
+				"avarage_queue_time": "4mins",
 				"canceled_queue": 1
 			}
 		},
@@ -77,8 +77,8 @@
 			"queue_info": {
 				"active_queue": 249,
 				"current_queue": 225,
-				"wating_time": "34min",
-				"avarage_queue_time": "2 mins",
+				"wating_time": "17min",
+				"avarage_queue_time": "2mins",
 				"canceled_queue": 1
 			}
 		},
@@ -104,8 +104,8 @@
 			"queue_info": {
 				"active_queue": 139,
 				"current_queue": 111,
-				"wating_time": "34min",
-				"avarage_queue_time": "2 mins",
+				"wating_time": "16min",
+				"avarage_queue_time": "1mins",
 				"canceled_queue": 1
 			}
 		},
@@ -131,8 +131,8 @@
 			"queue_info": {
 				"active_queue": 49,
 				"current_queue": 21,
-				"wating_time": "1hr 34min",
-				"avarage_queue_time": "2 mins",
+				"wating_time": "1hr 4min",
+				"avarage_queue_time": "7mins",
 				"canceled_queue": 12
 			}
 		},
@@ -158,8 +158,8 @@
 			"queue_info": {
 				"active_queue": 83,
 				"current_queue": 76,
-				"wating_time": "34min",
-				"avarage_queue_time": "2 mins",
+				"wating_time": "12min",
+				"avarage_queue_time": "2mins",
 				"canceled_queue": 1
 			}
 		}
