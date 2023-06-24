@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Bot 1",
-      "description": "This is the description of Bot 1.",
+      "description": "Bot 1 is a powerful binary automated bot designed for trading on the Volatility 100 Index. It utilizes a strategy-based approach to predict trade outcomes and offers a duration of 1 Ticks. With a recommended initial amount of $2.5, the bot employs a martingale factor of 11 up to a maximum level of 3. The recommended balance for optimal performance is approximately $332.5 (~333$). The bot has undergone extensive testing with 56 runs, achieving a win-loss ratio of 52:4. It also comes with a video preview showcasing its capabilities. Purchase includes lifetime access to updates and support.",
       "bot_type": "hot",
       "category": "Trending",
       "tags": ["tag1", "tag2", "tag3"],
