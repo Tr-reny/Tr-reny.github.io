@@ -1,10 +1,12 @@
 {
   "bots": [
     {
+      "id": 1,
       "name": "Bot 1",
-      "description": "This is the description of Bot 1.",
+      "description": "Bot 1 is a powerful binary automated bot designed for trading on the Volatility 100 Index. It utilizes a strategy-based approach to predict trade outcomes and offers a duration of 1 Ticks. With a recommended initial amount of $2.5, the bot employs a martingale factor of 11 up to a maximum level of 3. The recommended balance for optimal performance is approximately $332.5 (~333$). The bot has undergone extensive testing with 56 runs, achieving a win-loss ratio of 52:4. It also comes with a video preview showcasing its capabilities. Purchase includes lifetime access to updates and support.",
+       "download_link": "https://example.com/bot1-download",
       "bot_type": "hot",
-      "category": "Category 1",
+      "category": "Trending",
       "tags": ["tag1", "tag2", "tag3"],
       "version": "1.0",
       "author": "Author 1",
@@ -69,14 +71,24 @@
         }
       },
       "additional_info": "Bot 1 is a powerful binary automated bot designed for trading on the Volatility 100 Index. It utilizes a strategy-based approach to predict trade outcomes and offers a duration of 1 Ticks. With a recommended initial amount of $2.5, the bot employs a martingale factor of 11 up to a maximum level of 3. The recommended balance for optimal performance is approximately $332.5 (~333$). The bot has undergone extensive testing with 56 runs, achieving a win-loss ratio of 52:4. It also comes with a video preview showcasing its capabilities. Purchase includes lifetime access to updates and support.",
+       "download_link": "https://example.com/bot1-download",
+      "photos": [
+        "https://example.com/bot1-photo1.jpg",
+        "https://example.com/bot1-photo2.jpg",
+        "https://example.com/bot1-photo3.jpg"
+      ],
+      "video_preview": "https://example.com/bot1-video-preview.mp4",
       "supported_platforms": ["Platform A", "Platform B"],
-      "support_and_updates": "Bot 1 comes with dedicated customer support and regular updates to adapt to changing market conditions."
+      "support_and_updates": "Bot 1 comes with dedicated customer support and regular updates to adapt to changing market conditions.",
+      "total_review_ratings": 2,
+      "average_rating": 4.75
     },
     {
+      "id": 2,
       "name": "Bot 2",
       "description": "This is the description of Bot 2.",
-      "bot_type": "recommended",
-      "category": "Category 2",
+      "bot_type": "aggresive",
+      "category": "Recommended",
       "tags": ["tag4", "tag5", "tag6"],
       "version": "2.0",
       "author": "Author 2",
@@ -141,8 +153,17 @@
         }
       },
       "additional_info": "Bot 2 is a versatile automated bot designed for Forex trading. It applies technical analysis and utilizes popular indicators such as Moving Average (MA), Relative Strength Index (RSI), and Fibonacci retracement. The bot offers a trade duration of 1 hour and supports both long and short trades. With a recommended initial amount of $5.0, it employs a martingale factor of 8 up to a maximum level of 2. The recommended balance for optimal performance is $85.0. The bot has undergone testing with 40 runs, achieving a win-loss ratio of 30:10. Purchase includes lifetime access to updates and support.",
+      "download_link": "https://example.com/bot1-download",
+      "photos": [
+        "https://example.com/bot1-photo1.jpg",
+        "https://example.com/bot1-photo2.jpg",
+        "https://example.com/bot1-photo3.jpg"
+      ],
+      "video_preview": "https://example.com/bot1-video-preview.mp4",
       "supported_platforms": ["Platform B", "Platform C"],
-      "support_and_updates": "Bot 2 comes with dedicated customer support and regular updates to ensure the best trading experience."
+      "support_and_updates": "Bot 2 comes with dedicated customer support and regular updates to ensure the best trading experience.",
+      "total_review_ratings": 42,
+      "average_rating": 4.12
     }
   ]
 }
