@@ -3,8 +3,7 @@
     {
       "id": 1,
       "name": "Bot 1",
-      "description": "Bot 1 is a powerful binary automated bot designed for trading on the Volatility 100 Index. It utilizes a strategy-based approach to predict trade outcomes and offers a duration of 1 Ticks. With a recommended initial amount of $2.5, the bot employs a martingale factor of 11 up to a maximum level of 3. The recommended balance for optimal performance is approximately $332.5 (~333$). The bot has undergone extensive testing with 56 runs, achieving a win-loss ratio of 52:4. It also comes with a video preview showcasing its capabilities. Purchase includes lifetime access to updates and support.",
-       "download_link": "https://example.com/bot1-download",
+      "description": "This is the description of Bot 1.",
       "bot_type": "hot",
       "category": "Trending",
       "tags": ["tag1", "tag2", "tag3"],
@@ -48,7 +47,9 @@
           "maximum_loss_in_row": 2,
           "maximum_loss_amount": "$30",
           "num_of_runs": 56,
-          "win_loss_ratio": "52:4"
+          "win_loss_ratio": "52:4",
+          "makes": 250,
+          "makes_in_time": "40 mins"
         }
       },
       "indicators": ["Moving average (MA)", "Exponential moving average (EMA)", "Stochastic oscillator", "Moving average convergence divergence (MACD)", "Bollinger bands", "Relative strength index (RSI)", "Fibonacci retracement", "Ichimoku cloud", "Standard deviation", "Average directional index"],
@@ -130,7 +131,9 @@
           "maximum_loss_in_row": 3,
           "maximum_loss_amount": "$50",
           "num_of_runs": 40,
-          "win_loss_ratio": "30:10"
+          "win_loss_ratio": "30:10",
+          "makes": 20,
+          "makes_in_time": "20 mins"
         }
       },
       "indicators": ["Moving average (MA)", "Relative strength index (RSI)", "Fibonacci retracement"],
