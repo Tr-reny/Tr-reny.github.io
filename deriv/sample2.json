@@ -77,11 +77,11 @@
       "additional_info": "Bot 1 is a powerful binary automated bot designed for trading on the Volatility 100 Index. It utilizes a strategy-based approach to predict trade outcomes and offers a duration of 1 Ticks. With a recommended initial amount of $2.5, the bot employs a martingale factor of 11 up to a maximum level of 3. The recommended balance for optimal performance is approximately $332.5 (~333$). The bot has undergone extensive testing with 56 runs, achieving a win-loss ratio of 52:4. It also comes with a video preview showcasing its capabilities. Purchase includes lifetime access to updates and support.",
        "download_link": "https://example.com/bot1-download",
       "photos": [
-        "https://example.com/bot1-photo1.jpg",
-        "https://example.com/bot1-photo2.jpg",
+        "https://media.threatpost.com/wp-content/uploads/sites/103/2020/04/29122011/abstract-robot-thinking.jpg",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO7P-CiXH7vl9H4U-f-M_dWlWqRM6-VHm8UQ&usqp=CAU",
         "https://example.com/bot1-photo3.jpg"
       ],
-      "video_preview": "https://example.com/bot1-video-preview.mp4",
+      "video_preview": "https://www.shutterstock.com/shutterstock/videos/1016621530/preview/stock-footage--sec-count-down-animation-neon-color-pop-style-counter-count-end-will-whiteout.webm",
       "supported_platforms": ["Platform A", "Platform B"],
       "support_and_updates": "Bot 1 comes with dedicated customer support and regular updates to adapt to changing market conditions.",
       "total_review_ratings": 2,
