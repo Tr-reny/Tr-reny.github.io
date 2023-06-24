@@ -100,7 +100,7 @@
       "updated_at": "2023-06-12",
       "price_usd": 150,
       "current_price": 100,
-      "discount": 25,
+      "discount": 0,
       "discounted_price": 50,
       "roi": "85%",
       "downloads": 210,
