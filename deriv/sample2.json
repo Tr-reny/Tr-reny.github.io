@@ -29,7 +29,52 @@
           "user": "User4",
           "rating": 4.5,
           "review": "This bot has significantly improved my trading performance. The support team is also very responsive. Great product!"
-        }
+        },
+        {
+"user": "User4",
+"rating": 4.5,
+"review": "This bot has significantly improved my trading performance. The support team is also very responsive. Great product!"
+},
+{
+"user": "User1",
+"rating": 4.0,
+"review": "Bot 1 has been a game-changer for me. It automates repetitive tasks and saves me a lot of time. Very satisfied with its performance."
+},
+{
+"user": "User2",
+"rating": 3.5,
+"review": "I started using Bot 1 recently, and it has been decent so far. There are a few areas that could be improved, but overall, it's a helpful tool."
+},
+{
+"user": "User5",
+"rating": 4.8,
+"review": "Bot 1 is an excellent addition to my workflow. It's intuitive to use and has increased my productivity. Highly recommend giving it a try!"
+},
+{
+"user": "User6",
+"rating": 4.2,
+"review": "I've tried several bots, but Bot 1 stands out with its accuracy and reliability. It's become an essential tool in my daily tasks."
+},
+{
+"user": "User7",
+"rating": 3.0,
+"review": "Bot 1 has some useful features, but I encountered a few bugs during my usage. The customer support needs improvement. Average experience overall."
+},
+{
+"user": "User8",
+"rating": 4.7,
+"review": "Bot 1 exceeded my expectations. It's incredibly powerful and flexible, allowing me to automate complex workflows effortlessly. Impressed!"
+},
+{
+"user": "User9",
+"rating": 3.8,
+"review": "Bot 1 has a steep learning curve, but once you get the hang of it, it's incredibly useful. It has definitely boosted my efficiency."
+},
+{
+"user": "User10",
+"rating": 4.5,
+"review": "I've been using Bot 1 for a while now, and it's been a reliable companion. It never fails to deliver the results I need. Satisfied with its performance."
+}
       ],
       "settings": {
         "market": "Volatility 100 Index",
