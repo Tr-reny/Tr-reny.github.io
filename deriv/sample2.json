@@ -215,8 +215,8 @@
       "average_rating": 4.12
     },
      {
-      "id": 2,
-      "name": "Bot 2",
+      "id": 3,
+      "name": "Bot 3",
       "description": "This is the description of Bot 2.",
       "bot_type": "aggresive",
       "category": "Recommended",
@@ -302,8 +302,8 @@
       "average_rating": 4.12
     },
      {
-      "id": 2,
-      "name": "Bot 2",
+      "id": 4,
+      "name": "Bot 4",
       "description": "This is the description of Bot 2.",
       "bot_type": "aggresive",
       "category": "Recommended",
