@@ -92,7 +92,7 @@
           "num_of_runs": 56,
           "win_loss_ratio": "52:4",
           "makes": 250,
-          "makes_in_time": "40 mins"
+          "makes_in_time": "40"
         }
       },
       "indicators": ["Moving average (MA)", "Exponential moving average (EMA)", "Stochastic oscillator", "Moving average convergence divergence (MACD)", "Bollinger bands", "Relative strength index (RSI)", "Fibonacci retracement", "Ichimoku cloud", "Standard deviation", "Average directional index"],
